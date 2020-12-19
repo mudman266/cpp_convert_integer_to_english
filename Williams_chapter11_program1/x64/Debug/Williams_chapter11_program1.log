@@ -1,0 +1,3 @@
+﻿  Williams_chapter11_program1.cpp
+C:\School\CSC-234\Williams_chapter11_program1\Williams_chapter11_program1\Williams_chapter11_program1.cpp(82,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Williams_chapter11_program1.vcxproj -> C:\School\CSC-234\Williams_chapter11_program1\x64\Debug\Williams_chapter11_program1.exe
